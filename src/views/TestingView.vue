@@ -7,7 +7,7 @@
 
 <template>
     <div>
-        <h1>testing</h1>
+        <h1>This is a test page</h1>
     </div>
 </template>
 
